@@ -5,4 +5,8 @@
 ## Description
 
 Proposal and final reports, and the poster are under the [`docs/`](docs) folder.
+
 Actual view of the system is under the [`img/`](img) folder.
+
+
+![actual-view](img/ActualViewOfTheSystem.jpg)
